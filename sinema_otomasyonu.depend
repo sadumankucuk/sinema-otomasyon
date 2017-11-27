@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460679375 source:c:\users\user\desktop\sinema_otomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+
